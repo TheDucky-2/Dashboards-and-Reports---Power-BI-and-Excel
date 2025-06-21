@@ -17,7 +17,7 @@ Both dashboards provide easy-to-use tables and visual summaries to optimize your
 
 How to use:
 
-Please refer to the accompanying PDF files (AI_Content_Tracker_Guide.pdf and AI_Prompt_Tracker_Guide.pdf) for step-by-step instructions on how to use these Excel dashboards effectively.
+Please refer to "How to Use Your AI Prompt & Output Tracker Templates.pdf" for step-by-step instructions on how to use these Excel dashboards effectively.
 
 
 2. Power BI AI Tool Efficiency Dashboard
