@@ -32,7 +32,7 @@ Helps identify underutilized tools and optimize AI workflows.
 
 How to use:
 
-The PowerBI_AI_Tool_Efficiency_Guide.pdf contains detailed instructions on loading the report, navigating through the dashboards, and understanding key metrics.
+The "How to Use AI Tool Usage Analytics Dashboard.pdf" contains detailed instructions on loading the report, navigating through the dashboards, and understanding key metrics.
 
 **Note:**
 
