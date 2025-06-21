@@ -16,6 +16,7 @@ AI Prompt Tracker: Monitors AI prompt usage frequency and effectiveness.
 Both dashboards provide easy-to-use tables and visual summaries to optimize your AI content creation workflow.
 
 How to use:
+
 Please refer to the accompanying PDF files (AI_Content_Tracker_Guide.pdf and AI_Prompt_Tracker_Guide.pdf) for step-by-step instructions on how to use these Excel dashboards effectively.
 
 
@@ -30,6 +31,7 @@ Includes custom KPIs and visualizations highlighting tool performance.
 Helps identify underutilized tools and optimize AI workflows.
 
 How to use:
+
 The PowerBI_AI_Tool_Efficiency_Guide.pdf contains detailed instructions on loading the report, navigating through the dashboards, and understanding key metrics.
 
 **Note:**
